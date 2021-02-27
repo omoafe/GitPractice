@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3E60-701D
+
+ Directory of C:\Users\Dell\Documents\TECH\Pandas
+
+02/27/2021  12:48 PM    <DIR>          .
+02/27/2021  12:48 PM    <DIR>          ..
+02/27/2021  12:48 PM                 0 btest1.txt
+10/21/2020  06:09 AM        11,421,215 pandas.pdf
+               2 File(s)     11,421,215 bytes
+               2 Dir(s)  293,375,397,888 bytes free
